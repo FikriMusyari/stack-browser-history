@@ -1,5 +1,6 @@
 package com.github.affandes.kuliah.pm;
 
+<<<<<<< HEAD
 import java.util.Stack;
 import java.util.Scanner;
 
@@ -69,5 +70,11 @@ public class Main {
 
     public static void main(String[] args) {
         menu();
+=======
+public class Main {
+    public static void main(String[] args) {
+        // Tulis kode disini
+
+>>>>>>> 95760f77365d26cd8123630129ff3e6fcf63ab1e
     }
 }
